@@ -6,7 +6,7 @@ import time
 #print('Lets Go To Work ')
 #print("/>") 
 // we are going to replace that by this
-print('Welcome Sir hope You are Good!', /n, 'Lets Go To Work ')
+print('Welcome Sir hope You are Good! \n Lets Go To Work ')
 
 stuff = [ ["Saturday", "Chemistry","45min:study 30min:solve","Physics","45min:study 30min:solve","Biology","45min:study 30min:solve","Gym"],
         ["Sunday", "Arabic","45min:study 30min:solve","Physics","45min:study 30min:solve","Biology","45min:study 30min:solve","Running"],
@@ -27,3 +27,4 @@ time.sleep(3600)  # time the app stays for ever i mean that!!!
 
 
 #This is E/Abdelrahman Ali Hassan
+
